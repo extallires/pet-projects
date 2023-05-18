@@ -1,1 +1,0 @@
-**abyss-ts-task**
